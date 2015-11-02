@@ -206,7 +206,7 @@ namespace Invorker
                     startPos + new Vector2(10, 280), Color.White,
                     FontFlags.AntiAlias | FontFlags.DropShadow);
                 Drawing.DrawText(
-                    "ComboKey [G] PrepareKey [ctrl+G] ",
+                    "ComboKey [X] PrepareKey [ctrl+X] ",
                     startPos + new Vector2(10, 265), Color.White,
                     FontFlags.AntiAlias | FontFlags.DropShadow);
 
